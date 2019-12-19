@@ -24,7 +24,7 @@ Change this value to recalculate all dates in the Bike2Work sheet.
 
 In order to highlight the weekends in the Bike2Work sheet the template must know about the 2 days you consider as weekend days.
 
-#### Work and non-working days settings**
+#### Work and non-working days settings
 
 Here you can configure several abbreviations for work and non-working days. Work days will be coloured green in the template, non-working days will be highlighted in red.
 
